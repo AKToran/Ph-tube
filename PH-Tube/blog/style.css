@@ -1,0 +1,16 @@
+*{
+    background-color: rgb(203, 214, 214);
+}
+
+.title{
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    font-size: 60px;
+}
+
+.accordion-container{
+    padding: 100px;
+    align-items: center;
+    background-color: rgb(49, 49, 100);
+}
